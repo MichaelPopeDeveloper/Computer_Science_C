@@ -1,0 +1,4 @@
+﻿  swap.c
+C:\Users\Patron\Desktop\temp\ComputerScienceInC\Computer_Science_In_C\swap.c(9): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\Patron\Desktop\temp\ComputerScienceInC\Computer_Science_In_C\swap.c(7): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  Computer_Science_In_C.vcxproj -> C:\Users\Patron\Desktop\temp\ComputerScienceInC\Computer_Science_In_C\Debug\Computer_Science_In_C.exe
